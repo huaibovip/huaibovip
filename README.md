@@ -35,7 +35,7 @@
   <!-- GitHub Activity Graph GitHub 活动图 -->
   <table align="center">
     <tr>
-      <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=huaibovip&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+      <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=huaibovip&theme=high-contrast&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
     </tr>
   </table>
 
@@ -158,8 +158,6 @@
       <td><img src="https://cdn.jsdelivr.net/gh/huaibovip/huaibovip/github-metrics/people.followers.svg" alt="people.followers" /></td>
     </tr>
   </table> -->
-
-  <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
   <!-- just img 图片 -->
   <img src="https://cdn.jsdelivr.net/gh/huaibovip/huaibovip/assets/images/rocket.png"/>
